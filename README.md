@@ -1,4 +1,5 @@
-## focus.apki.io
-Landing page for Let me Focus app
+## zazen.apki.io
+Landing page for Simple Zazen Timer app
 
-https://focus.apki.io
+https://zazen.apki.io
+
